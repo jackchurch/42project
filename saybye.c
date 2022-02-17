@@ -2,6 +2,8 @@
 
 int main(){
 
-	printf("Hi-world");
+BenCosford-patch-1
+	printf("goodbye");
+
 	return 0;
 }
